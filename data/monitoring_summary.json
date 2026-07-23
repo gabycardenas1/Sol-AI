@@ -1,0 +1,40 @@
+{
+  "metrics": {
+    "generated_at": "2026-07-22T21:04:41",
+    "total_questions": 1,
+    "sufficient_context_count": 1,
+    "sufficient_context_rate": 100.0,
+    "insufficient_context_count": 0,
+    "insufficient_context_rate": 0.0,
+    "unknown_context_count": 0,
+    "responses_without_sources": 0,
+    "responses_without_sources_rate": 0.0,
+    "average_response_time_seconds": 4.691,
+    "median_response_time_seconds": 4.691,
+    "maximum_response_time_seconds": 4.691,
+    "average_sources_per_response": 5.0,
+    "total_feedback": 1,
+    "positive_feedback_count": 1,
+    "negative_feedback_count": 0,
+    "positive_feedback_rate": 100.0,
+    "negative_feedback_rate": 0.0,
+    "feedback_coverage_rate": 100.0
+  },
+  "quality_checks": [
+    {
+      "metric": "Cobertura de contexto",
+      "status": "Adecuado",
+      "detail": "100.0% de las respuestas tienen contexto suficiente."
+    },
+    {
+      "metric": "Satisfacción",
+      "status": "Adecuado",
+      "detail": "100.0% del feedback es positivo."
+    },
+    {
+      "metric": "Tiempo de respuesta",
+      "status": "Adecuado",
+      "detail": "Promedio de 4.691 segundos."
+    }
+  ]
+}
