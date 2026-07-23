@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-07-22T20:52:50",
+  "documents_directory": "C:\\Users\\GABY\\Documents\\Cursos - Proyectos\\Alura Sol AI\\sol-ai\\documents",
+  "inventory_path": "C:\\Users\\GABY\\Documents\\Cursos - Proyectos\\Alura Sol AI\\sol-ai\\data\\inventario_documental_nexodata.xlsx",
+  "file_count": 9,
+  "files": {
+    "data/inventario_documental_nexodata.xlsx": {
+      "path": "data/inventario_documental_nexodata.xlsx",
+      "file_name": "inventario_documental_nexodata.xlsx",
+      "size_bytes": 15613,
+      "modified_at": "2026-07-22T00:20:02",
+      "sha256": "a46475b126beb5cd9880c17a41cf8472c068bd57439cb502ff4e36b1f3891b28"
+    },
+    "documents/catalogo_servicios_nexodata.md": {
+      "path": "documents/catalogo_servicios_nexodata.md",
+      "file_name": "catalogo_servicios_nexodata.md",
+      "size_bytes": 20861,
+      "modified_at": "2026-07-21T23:40:36",
+      "sha256": "20334957b84f4484bbde09c642cb2fb8df408e713f16a7f24e9e768b71fbe821"
+    },
+    "documents/manual_herramientas_tecnologicas_nexodata.xlsx": {
+      "path": "documents/manual_herramientas_tecnologicas_nexodata.xlsx",
+      "file_name": "manual_herramientas_tecnologicas_nexodata.xlsx",
+      "size_bytes": 17951,
+      "modified_at": "2026-07-21T23:59:46",
+      "sha256": "14b36729d0eef43a8d9b9ded7ca87d2b759a4806f63c0e9570a43944edb4e2ac"
+    },
+    "documents/manual_onboarding_nexodata.pdf": {
+      "path": "documents/manual_onboarding_nexodata.pdf",
+      "file_name": "manual_onboarding_nexodata.pdf",
+      "size_bytes": 1444894,
+      "modified_at": "2026-07-21T23:35:58",
+      "sha256": "fcdb48c4445d820952e080e6cd2509eb8a40c31cde09f82cabca8b79396c496c"
+    },
+    "documents/metodologia_gestion_proyectos_nexodata.pdf": {
+      "path": "documents/metodologia_gestion_proyectos_nexodata.pdf",
+      "file_name": "metodologia_gestion_proyectos_nexodata.pdf",
+      "size_bytes": 22688,
+      "modified_at": "2026-07-21T23:46:34",
+      "sha256": "88069d1ceedbc162beac6c6989778e49af6f7dffc41940e26e30490dcfd72908"
+    },
+    "documents/politica_calidad_entregables_nexodata.pdf": {
+      "path": "documents/politica_calidad_entregables_nexodata.pdf",
+      "file_name": "politica_calidad_entregables_nexodata.pdf",
+      "size_bytes": 31391,
+      "modified_at": "2026-07-22T00:08:04",
+      "sha256": "02d2bdfc521fcde1ebf72ba4fe07df2bc6fed062392584d05136d5ffab9641a4"
+    },
+    "documents/politica_seguridad_datos_nexodata.pdf": {
+      "path": "documents/politica_seguridad_datos_nexodata.pdf",
+      "file_name": "politica_seguridad_datos_nexodata.pdf",
+      "size_bytes": 21763,
+      "modified_at": "2026-07-21T23:55:38",
+      "sha256": "6bac9f63a5d8cbe0861c1be9d3db661c172288c48c929f3b812a48473174d7fe"
+    },
+    "documents/preguntas_frecuentes_colaboradores_nexodata.csv": {
+      "path": "documents/preguntas_frecuentes_colaboradores_nexodata.csv",
+      "file_name": "preguntas_frecuentes_colaboradores_nexodata.csv",
+      "size_bytes": 29325,
+      "modified_at": "2026-07-22T00:12:49",
+      "sha256": "cb93e52d52e61c05765a38bb0dbfdd06297f31207ae9db1c622b1dd8439bc646"
+    },
+    "documents/protocolo_incidentes_nexodata.pdf": {
+      "path": "documents/protocolo_incidentes_nexodata.pdf",
+      "file_name": "protocolo_incidentes_nexodata.pdf",
+      "size_bytes": 25079,
+      "modified_at": "2026-07-22T00:03:47",
+      "sha256": "cafb186921470fbdab440d9e16dc3d25508fcc24e9de22af295459df040d5295"
+    }
+  }
+}

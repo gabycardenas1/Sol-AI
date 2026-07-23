@@ -1,0 +1,18 @@
+﻿timestamp,interaction_id,question,answer,confidence_status,response_time_seconds,source_count,sources_json
+2026-07-22T20:42:04,c58d5234-7058-4eca-9e29-759b9ed394e2,¿Cuándo se considera aprobado un entregable?,"¡Hola! Con gusto te ayudo a aclarar esa duda.
+
+Para que un entregable se considere aprobado en NexoData, debe cumplir con varios criterios fundamentales que aseguran la calidad de nuestro trabajo. Según el documento *Preguntas Frecuentes para Colaboradores*, un entregable está aprobado cuando cumple con el alcance definido, ha pasado las pruebas correspondientes, cuenta con su documentación completa y ha sido validado tanto técnica como funcionalmente, asegurándonos de que no existan defectos críticos o altos pendientes.
+
+Esta información se complementa con nuestra *Metodología para la Gestión de Proyectos*, la cual detalla los criterios de aceptación específicos que debemos revisar:
+
+*   **Funcionalidad:** Que la solución cumpla con el requerimiento acordado.
+*   **Calidad de datos:** Que se hayan aplicado y documentado las reglas de validación.
+*   **Seguridad:** Que los accesos y controles cumplan con la política vigente.
+*   **Documentación:** Que el entregable incluya las instrucciones y trazabilidad necesaria.
+*   **Pruebas:** Que no existan defectos críticos pendientes.
+*   **Usabilidad:** Que el usuario pueda utilizar la solución con la capacitación prevista.
+*   **Aprobación formal:** La persona responsable debe confirmar la aceptación a través del canal oficial.
+
+Adicionalmente, el *Manual de Bienvenida y Onboarding* refuerza que el entregable debe cumplir con todos los requerimientos, pasar las validaciones técnicas y de calidad, y contar con la aprobación formal correspondiente.
+
+Espero que esta información te sea de gran ayuda. ¿Hay algo más en lo que pueda apoyarte hoy?",sufficient_context,4.691,5,"[{""source"": ""preguntas_frecuentes_colaboradores_nexodata.csv - fila 55"", ""file_name"": ""preguntas_frecuentes_colaboradores_nexodata.csv"", ""page"": null, ""sheet_name"": null, ""row"": 55, ""category"": ""Comunicación Interna"", ""responsible_area"": ""Recursos Humanos y Soporte"", ""last_updated"": ""2026-07-22"", ""distance"": 0.3553, ""rerank_score"": 7.8949}, {""source"": ""metodologia_gestion_proyectos_nexodata.pdf - página 10"", ""file_name"": ""metodologia_gestion_proyectos_nexodata.pdf"", ""page"": 10, ""sheet_name"": null, ""row"": null, ""category"": ""Operacional"", ""responsible_area"": ""Consultoría y Gestión de Proyectos"", ""last_updated"": ""2026-07-22"", ""distance"": 0.513, ""rerank_score"": 2.371}, {""source"": ""preguntas_frecuentes_colaboradores_nexodata.csv - fila 49"", ""file_name"": ""preguntas_frecuentes_colaboradores_nexodata.csv"", ""page"": null, ""sheet_name"": null, ""row"": 49, ""category"": ""Comunicación Interna"", ""responsible_area"": ""Recursos Humanos y Soporte"", ""last_updated"": ""2026-07-22"", ""distance"": 0.5606, ""rerank_score"": 2.075}, {""source"": ""manual_onboarding_nexodata.pdf - página 9"", ""file_name"": ""manual_onboarding_nexodata.pdf"", ""page"": 9, ""sheet_name"": null, ""row"": null, ""category"": ""Recursos Humanos"", ""responsible_area"": ""Recursos Humanos"", ""last_updated"": ""2026-07-22"", ""distance"": 0.3993, ""rerank_score"": -0.5305}, {""source"": ""metodologia_gestion_proyectos_nexodata.pdf - página 9"", ""file_name"": ""metodologia_gestion_proyectos_nexodata.pdf"", ""page"": 9, ""sheet_name"": null, ""row"": null, ""category"": ""Operacional"", ""responsible_area"": ""Consultoría y Gestión de Proyectos"", ""last_updated"": ""2026-07-22"", ""distance"": 0.5123, ""rerank_score"": -2.7936}]"

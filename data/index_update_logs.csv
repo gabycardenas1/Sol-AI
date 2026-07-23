@@ -1,0 +1,4 @@
+﻿timestamp,status,trigger,added_count,modified_count,deleted_count,vector_count,added_files,modified_files,deleted_files,error_message
+2026-07-22T20:52:50,manifest_initialized,initialization,0,0,0,,[],[],[],
+2026-07-22T20:53:11,no_changes,scheduled_check,0,0,0,,[],[],[],
+2026-07-22T20:56:30,failed,document_change,0,1,0,,[],"[""documents/catalogo_servicios_nexodata.md""]",[],No se pudo reconstruir el índice porque ChromaDB está siendo utilizado por otro proceso. Cierra Streamlit y cualquier ejecución de rag_agent.py. Detalle: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\GABY\\Documents\\Cursos - Proyectos\\Alura Sol AI\\sol-ai\\vectorstore\\85b9c14e-fc61-4e7d-a5f4-73b2bbdb6dc7\\data_level0.bin'

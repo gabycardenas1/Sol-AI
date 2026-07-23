@@ -55,7 +55,7 @@ CHROMA_PERSIST_DIRECTORY = VECTORSTORE_DIR
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GEMINI_MODEL_NAME = os.getenv(
     "GEMINI_MODEL_NAME",
-    "gemini-2.5-flash",
+    "gemini-3.1-flash-lite",
 )
 
 
@@ -64,7 +64,7 @@ RETRIEVAL_TOP_K = 5
 
 
 # Temperatura baja para evitar respuestas inventadas
-MODEL_TEMPERATURE = 0.2
+MODEL_TEMPERATURE = 1.0
 
 
 # Mensaje cuando no existe suficiente información
